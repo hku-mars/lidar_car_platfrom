@@ -26,7 +26,7 @@
 
 ## Assembly instructions
 
-If you have installed [*Solidworks*](https://www.solidworks.com) on your computer, we strongly recommand you to see more details by openning the assembly file [**car_assemble.SLDASM**](./car_assemble.SLDASM).
+If you have installed [*Solidworks*](https://www.solidworks.com) on your computer, we strongly recommand you to see more details by openning the assembly file [**car_assemble.SLDASM**](./solidworks_files/car_assemble.SLDASM).
 
 ## Material lists (only for reference)
 | Item  | Pics  | Shopping link (available<br> is not guaranteed)  |
