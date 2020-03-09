@@ -29,7 +29,7 @@
 If you have installed [*Solidworks*](https://www.solidworks.com) on your computer, we strongly recommand you to see more details by openning the assembly file [**car_assemble.SLDASM**](./solidworks_files/car_assemble.SLDASM).
 
 ## Material lists (only for reference)
-| Item  | Pics  | Shopping link (available<br> is not guaranteed)  |
+| Item  | Pics  | Shopping link (availability<br> is not guaranteed)  |
 | :------------: | :------------: | :------------: |
 | Livox Mid-40  | <img src="./pics/mid40.png" width=15%  />  | [official website](https://www.livoxtech.com/mid-40-and-mid-100); [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
 | Livox Mid-100  | <img src="./pics/mid100.png" width=20%  />  | [official website](https://www.livoxtech.com/mid-40-and-mid-100); [DJI](https://store.dji.com/cn/product/livox-mid?vid=48991) |
