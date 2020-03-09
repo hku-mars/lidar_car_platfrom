@@ -12,17 +12,16 @@
 </div>  
 
 <div align="center">
-    <a href="https://github.com/hku-mars/lidar_car_platfrom" target="_blank"><img src="./pics/1.png" width = 24.5% >
-    <a href="https://github.com/hku-mars/lidar_car_platfrom" target="_blank"><img src="./pics/2.png" width = 24.5% >
-    <a href="https://github.com/hku-mars/lidar_car_platfrom" target="_blank"><img src="./pics/5.png" width = 24.5% >
-    <a href="https://github.com/hku-mars/lidar_car_platfrom" target="_blank"><img src="./pics/4.png" width = 24.5% >
+    <img src="./pics/1.png" width = 24.5% >
+    <img src="./pics/2.png" width = 24.5% >
+    <img src="./pics/5.png" width = 24.5% >
+    <img src="./pics/4.png" width = 24.5% >
 </div>
 <div align="center">
     <img src="./pics/front.jpg" width = 24.5% >
     <img src="./pics/back.jpg" width = 24.5% >
     <img src="./pics/replace_battery_2.jpg" width = 24.5% >
     <img src="./pics/handheld_mode.jpg" width = 24.5% >
-
 </div>
 
 ## Assembly instructions
